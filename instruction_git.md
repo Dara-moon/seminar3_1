@@ -104,3 +104,7 @@
 Для создания новой ветки используется команда:
 
     git branch <branch_name>
+
+### Cnhfyysq pfujkjdjr
+
+непонятный текст
